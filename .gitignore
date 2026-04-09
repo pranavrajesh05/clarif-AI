@@ -1,0 +1,38 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+
+# Node.js
+node_modules/
+package-lock.json
+
+# Generated output files
+parsed_content.txt
+research_content.txt
+static/summ_content.txt
+static/image_prompts.txt
+static/output/
+
+# Uploads (user-uploaded files & generated graphs)
+uploads/*.pdf
+uploads/*.png
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

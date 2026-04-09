@@ -1,0 +1,14 @@
+flask
+groq
+python-dotenv
+llama-parse
+llama-index-core
+llama-index-graph-stores-neo4j
+llama-index-llms-openai
+llama-index-tools-neo4j
+llama-index-agent-openai
+krutrim-cloud
+neo4j
+networkx
+matplotlib
+nest-asyncio
